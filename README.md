@@ -39,7 +39,7 @@ I enjoy solving problems and building real-world applications. My technical skil
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raghunaandanms.mattur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghunandan_mattur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunandanams) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RaghunandanMSb1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghuwork16@gmail.com)
 
 
-## 💰 You can help me by Donating
+## 💰 You can help me by donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RaghunandanaS) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
